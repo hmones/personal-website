@@ -1,0 +1,13 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@fontName: 'Droid Sans';
+@columnCount: 12;
+@emSize: 16px;
+@fontSize: 16px;
+@grey: #fafafa;
+@teal: #00AEF0;
+@lightTeal: #1AC8FF;
+@primaryColor: @blue;
+@secondaryColor: @black;
